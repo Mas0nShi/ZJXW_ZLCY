@@ -42,3 +42,8 @@ python3 zjxw.py -init
 ## Feature
 
 - 点赞任务
+
+
+## Screenshot
+
+![](image.png)
